@@ -5,21 +5,21 @@
     
     
     
-    <link>https://Muhlt.github.io/tags/templates/</link>
+    <link>http://localhost:1313/tags/templates/</link>
     <description>Recent content in Templates on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://Muhlt.github.io/tags/templates/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/templates/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://Muhlt.github.io/post/goisforlovers/</link>
+      <link>http://localhost:1313/post/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Muhlt.github.io/post/goisforlovers/</guid>
+      <guid>http://localhost:1313/post/goisforlovers/</guid>
       <description>
         
           
